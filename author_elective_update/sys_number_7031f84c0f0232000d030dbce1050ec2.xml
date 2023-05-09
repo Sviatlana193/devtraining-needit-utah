@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_58872_needit_needit_task">x_58872_needit_needit_task</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>NITASK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-05 19:43:13</sys_created_on>
+        <sys_id>7031f84c0f0232000d030dbce1050ec2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NITASK</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_number_7031f84c0f0232000d030dbce1050ec2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-05 19:43:13</sys_updated_on>
+    </sys_number>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>420b463cdb00b38052cec5970596196e</instance_id>
+        <instance_name>dev74563</instance_name>
+        <name>sys_number_7031f84c0f0232000d030dbce1050ec2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_58872_needit_needit_task">x_58872_needit_needit_task</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>NITASK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-05 19:43:13</sys_created_on>
+        <sys_id>7031f84c0f0232000d030dbce1050ec2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NITASK</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_number_7031f84c0f0232000d030dbce1050ec2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-05 19:43:13</sys_updated_on>
+    </sys_number>
+</record_update>]]></payload>
+        <payload_hash>746572335</payload_hash>
+        <record_name>NITASK</record_name>
+        <reverted_from/>
+        <source>db88dcfb97262110c3703480f053afb4</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-08 12:07:07</sys_created_on>
+        <sys_id>2798543f97262110c3703480f053afa3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>187fb421e4f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-08 12:07:07</sys_updated_on>
+        <type>Number</type>
+        <update_guid>2398543f0b26211093a7346addd754a3</update_guid>
+        <update_guid_history>2398543f0b26211093a7346addd754a3:0,a6a76b2f5f622110ea98a6f056b501cd:-1423301278,532727eb36622110ad1527414cb64218:0,2f46e76b4e622110369afb83e180b193:824758965,d9f5e72bb4622110597ae69efe918e84:0,825423a7d06221103536953a07b9b0ba:1645446813,46c0e3a34962211084d27f06051f49cf:0,a7efdbef29222110230692d92e2f660e:-400612700,10ba13ab00222110d7bd75db84597a07:746572335</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-08 12:08:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>2278044c596e4de8be1329bf79a23d90</sys_id>
+        <sys_metadata>7031f84c0f0232000d030dbce1050ec2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NITASK</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">6198903f97262110c3703480f053af80</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_number_7031f84c0f0232000d030dbce1050ec2</sys_update_name>
+        <sys_update_version display_value="sys_number_7031f84c0f0232000d030dbce1050ec2">2798543f97262110c3703480f053afa3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-08 12:08:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
